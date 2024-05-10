@@ -9,7 +9,7 @@ I'm a software engineer based in London, dedicated to transforming creative idea
 ## 🚀 Skill Set
 
 **Programming Languages:** 
-`JavaScript` `Java` `PHP` `SCSS` `HTML` `CSS`
+`JavaScript` `Java` `PHP` `Python` `SCSS` `HTML` `CSS` 
 
 **Frontend Development:** 
 `React` `Redux` `HTML5` `CSS3` `SCSS` `Bootstrap` `JavaScript` (ES6+)
