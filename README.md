@@ -1,5 +1,5 @@
 
-### Hello!, my name is Melihhan 🙋🏻‍♂️
+### Hello!, my name is Melihhan Gök 🙋🏻‍♂️
 
 I'm a software engineer based in London, dedicated to transforming creative ideas into robust digital solutions. My journey in web development has equipped me with a solid foundation in both frontend and backend technologies, enabling me to build scalable and efficient applications.
 
