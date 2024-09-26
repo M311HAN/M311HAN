@@ -24,7 +24,7 @@ I have successfully completed a Full Stack web Development & Software Engineer q
 `Jest` `Mocha` `PHPUnit` `Docker` `GitHub Actions`
 
 **Version Control and Development Tools:** 
-`Git` `GitHub` `Heroku`
+`Git` `GitHub` `Heroku` `Netlify`
 
 ## 🌐 Recent Projects
 
