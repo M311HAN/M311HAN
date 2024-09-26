@@ -5,7 +5,7 @@ I'm a software engineer based in London, dedicated to transforming creative idea
 
 I have successfully completed a Full Stack web Development & Software Engineer qualification with a final grade of 100%.
 
-- Here's my CV i built using React.js and Bootstrap for the UI components [website](https://my-online-cv-1905.netlify.app)
+- Here's my CV i built using React.js and Bootstrap for the UI components [MY CV](https://my-online-cv-1905.netlify.app)
 - Here's my portfolio [website](https://melihhangok.wordpress.com) – check it out!
 - Connect with me on [LinkedIn](http://linkedin.com/in/melihhan) for any queries or to engage in meaningful conversations about tech.
 
