@@ -3,6 +3,9 @@
 
 I'm a software engineer based in London, dedicated to transforming creative ideas into robust digital solutions. My journey in web development has equipped me with a solid foundation in both frontend and backend technologies, enabling me to build scalable and efficient applications.
 
+I have successfully completed a Full Stack web Development & Software Engineer qualification with a final grade of 100%.
+
+- Here's my CV i built using React.js
 - Here's my portfolio [website](https://melihhangok.wordpress.com) – check it out!
 - Connect with me on [LinkedIn](http://linkedin.com/in/melihhan) for any queries or to engage in meaningful conversations about tech.
 
