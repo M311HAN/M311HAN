@@ -9,6 +9,14 @@ I have successfully completed a Full Stack web Development & Software Engineer q
 - Here's my portfolio [website](https://melihhangok.wordpress.com) – check it out!
 - Connect with me on [LinkedIn](http://linkedin.com/in/melihhan) for any queries or to engage in meaningful conversations about tech.
 
+## Why "M311HAN" is Special to Me
+
+Ever since I was a small child, I dreamed of owning a number plate that perfectly reflected my identity. For me, that number plate was "M311HAN"—a unique and personal spelling of my name (MELIHHAN). I spent years envisioning what it would feel like to see my dream plate on my car, and I worked hard to make that dream a reality.
+
+In 2017, after years of saving and planning, I finally got the chance to bid on "M311HAN" in an auction. Winning it was one of the most special moments of my life. It wasn't just about acquiring a number plate; it was about realizing a dream I had nurtured since childhood.
+
+"M311HAN" isn't just a username—it's a part of who I am. It embodies my dedication, my journey, and my passion. This is why I proudly use "M311HAN" in my professional work and personal branding. It's a reminder of what it means to set goals, work hard, and achieve something truly meaningful.
+
 ## 🚀 Skill Set
 
 **Programming Languages:** 
