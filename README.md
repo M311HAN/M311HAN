@@ -4,6 +4,7 @@
 I'm a software engineer based in London, dedicated to transforming creative ideas into robust digital solutions. My journey in web development has equipped me with a solid foundation in both frontend and backend technologies, enabling me to build scalable and efficient applications.
 
 I have successfully completed a Full Stack web Development & Software Engineer qualification with a final grade of 100%. 
+
 [View my portfolio and Certificate](https://www.hyperiondev.com/portfolio/MG22120005918/)
 
 - Here's my [my CV](https://my-online-cv-1905.netlify.app) i built using React.js and Bootstrap for the UI components.
