@@ -3,13 +3,14 @@
 
 I'm a software engineer based in London, dedicated to transforming creative ideas into robust digital solutions. My journey in web development has equipped me with a solid foundation in both frontend and backend technologies, enabling me to build scalable and efficient applications.
 
-I have successfully completed a Full Stack web Development & Software Engineer qualification with a final grade of 100%. https://melresume.netlify.app
+I have successfully completed a Full Stack web Development & Software Engineer qualification with a final grade of 100%. 
 
 - Here's my [my CV](https://my-online-cv-1905.netlify.app) i built using React.js and Bootstrap for the UI components.
 - Here's my [my Resume](https://melresume.netlify.app) i built using HTML and w3 school's  pre-built styles and components, much like Bootstrap, but with its own unique set of class names and styling options. I also added some custom CSS.
 - Here's my portfolio [website](https://melihhangok.wordpress.com) – check it out!
 - Connect with me on [LinkedIn](http://linkedin.com/in/melihhan) for any queries or to engage in meaningful conversations about tech.
-- ## My Certificate
+
+## My Certificate
 [![Certificate](certificates/certificate.png)](https://my-certificate.com)
 
 ### Why "M311HAN" is Special to Me
