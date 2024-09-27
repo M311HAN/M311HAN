@@ -9,6 +9,8 @@ I have successfully completed a Full Stack web Development & Software Engineer q
 - Here's my [my Resume](https://melresume.netlify.app) i built using HTML and w3 school's  pre-built styles and components, much like Bootstrap, but with its own unique set of class names and styling options. I also added some custom CSS.
 - Here's my portfolio [website](https://melihhangok.wordpress.com) – check it out!
 - Connect with me on [LinkedIn](http://linkedin.com/in/melihhan) for any queries or to engage in meaningful conversations about tech.
+- ## My Certificate
+[![Certificate](certificates/certificate.png)](https://my-certificate.com)
 
 ### Why "M311HAN" is Special to Me
 
