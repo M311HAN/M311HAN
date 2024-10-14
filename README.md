@@ -45,7 +45,7 @@ In 2017, after years of saving and planning, I finally got the chance to bid on 
 
 ## 👀 About Me
 
-- Currently advancing my skills in Full Stack Web Development & Software Engineering.
+- Completed my qualification in A Full Stack Web Development & Software Engineering Course.
 - Eager to contribute to open source projects and collaborate on innovative software solutions.
 - Passionate about exploring new technologies, especially in the fields of cloud services and machine learning.
 
